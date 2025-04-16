@@ -66,3 +66,4 @@ function handleRoot(req, res) {
     getProduct,
     createProduct,
   });
+  
